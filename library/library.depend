@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1589685007 source:c:\users\dell\desktop\research pl\library\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1590635554 source:d:\researchs\pl\library\main.c
+	<stdio.h>
+	<string.h>
+
+1601381946 source:d:\programing\projects\c\library\main.c
+	<stdio.h>
+	<string.h>
+
